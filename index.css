@@ -4,6 +4,7 @@
  }  
  body{  
    background-image: url(bg.jpg);
+   background-size: cover;
    margin: 0;  
    font-family: "Poppins", sans-serif;  
    background-color: linear-gradiet(300deg, #757b87, #909d9d);  
